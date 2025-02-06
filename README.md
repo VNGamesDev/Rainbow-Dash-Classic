@@ -1,5 +1,5 @@
 # Rainbow Dash: Classic — Mod
-Мод на основе Fall Dash: Classic, игры GKProduction.
+Мод на основе Fall Dash: Classic.
 
 Версия мода: v1.0
 Основано на версии исходного кода: v1.3.0.1
@@ -11,6 +11,6 @@
 - Clickteam Fusion 2.5+
 - Font Embed
 ---
-🗂️ [**Оригинальный исходный код**](https://github.com/GKProduction/Fall-Dash-Classic)
+🗂️ Оригинальный исходный код: [**Fall Dash: Classic — Source**](https://github.com/GKProduction/Fall-Dash-Classic)
 
-👤 [**Автор оригинального исходного кода**](https://github.com/GKProduction)
+👤 Автор оригинального исходного кода: [**GKProduction**](https://github.com/GKProduction)
