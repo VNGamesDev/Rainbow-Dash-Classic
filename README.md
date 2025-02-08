@@ -5,7 +5,7 @@
 
 Основано на версии исходного кода: v1.3.0.1
 
-➡️ [Скачать и играть](https://github.com/VNGamesDev/Rainbow-Dash-Classic/releases)
+➡️ [**Скачать и играть**](https://github.com/VNGamesDev/Rainbow-Dash-Classic/releases)
 ## Особенности мода
 - Всегда активен режим сверхсветовой скорости;
 - Новая музыка.
