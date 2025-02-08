@@ -2,6 +2,7 @@
 Мод на основе Fall Dash: Classic.
 
 Версия мода: v1.0
+
 Основано на версии исходного кода: v1.3.0.1
 
 ➡️ [Скачать и играть](https://github.com/VNGamesDev/Rainbow-Dash-Classic/releases)
